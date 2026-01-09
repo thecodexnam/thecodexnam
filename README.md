@@ -80,7 +80,7 @@ Multiple small projects to strengthen **JavaScript & React fundamentals**.
 <h3 align="left">💻 Development Stack</h3>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,nodejs,express&size=48" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,nextjs,nodejs,express&size=48" />
 </p>
 
 <h3 align="left">🗄️ Databases & Languages</h3>
