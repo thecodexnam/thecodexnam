@@ -77,10 +77,27 @@ Multiple small projects to strengthen **JavaScript & React fundamentals**.
 
 ---
 
-<h3 align="left">🛠️ Languages & Tools</h3>
+<h3 align="left">💻 Development Stack</h3>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,git,python,tailwind,cpp&size=48" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,nodejs,express&size=48" />
+</p>
+
+<h3 align="left">🗄️ Databases & Languages</h3>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,js,python,java,cpp&size=48" />
+</p>
+
+<h3 align="left">🧠 AI, Tools & Workflow</h3>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel&size=48" />
+  <img src="https://img.shields.io/badge/Cursor_IDE-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Prompt_Engineering-6A5ACD?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI_Automation-0A66C2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/n8n-Auto_Workflows-FF6D00?style=for-the-badge&logo=n8n&logoColor=white"/>
 </p>
 
 
