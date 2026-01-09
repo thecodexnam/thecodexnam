@@ -45,9 +45,9 @@ Focused on building real-world projects ✦ mastering modern web technologies �
 - 🔍 Preparing for **internships & entry-level developer roles**  
 
 <p align="center">
-  <a href="" target="_blank">
-    <img src="https://img.shields.io/badge/📄 Download%20Resume-FF6F00?style=for-the-badge&logo=google-drive&logoColor=white" alt="Naman Yadav Resume" />
-  </a>
+  <a href="https://docs.google.com/document/d/1ejicQ4gJPhV68DlZemBiWOpRxzfyZm9cRKnvhqNiZ1M/export?format=pdf" target="_blank">
+  <img src="https://img.shields.io/badge/📄 Download%20Resume-FF6F00?style=for-the-badge&logo=google-drive&logoColor=white" />
+</a>
 </p>
 
 ---
