@@ -86,7 +86,7 @@ Multiple small projects to strengthen **JavaScript & React fundamentals**.
 <h3 align="left">🗄️ Databases & Languages</h3>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,js,python,java,cpp&size=48" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,js,ts,python,java,cpp&size=48" />
 </p>
 
 <h3 align="left">🧠 AI, Tools & Workflow</h3>
