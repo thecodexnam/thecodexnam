@@ -54,11 +54,11 @@ Focused on building real-world projects ✦ mastering modern web technologies �
 
 <h3 align="left">🛠️ Featured Projects</h3>
 
-### 🛒 Add to Cart Web App  
-A beginner-friendly **e-commerce cart system** with clean UI logic.  
-- Built using **React.js**  
-- Features: Add to cart, quantity control, cart page  
-👉 [View Project](#)
+### 🔐 MERN Authentication System
+- Full-stack auth with secure JWT tokens
+-  HttpOnly cookies & Cloudinary uploads
+-  Stack: React, Node.js, MongoDB, Express  
+[Live Demo](https://authapp-murex.vercel.app) | [GitHub](https://github.com/thecodexnam/Ultimate-Backend)
 
 ---
 
