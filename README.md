@@ -32,7 +32,6 @@ Focused on building real-world projects ✦ mastering modern web technologies �
     <code>"I don't rush results — I compound effort daily."</code>
   </strong>
 </p>
-
 ---
 
 <h3 align="left">🚀 Tech Journey & Aspirations</h3>
