@@ -7,7 +7,6 @@
 <p align="center">
   <img src="https://drive.google.com/uc?export=view&id=1ftjM5-DjjUFk0uh0nC7b5h3pxN1wbwBs" alt="Coding Banner" width="1000" />
 </p>
-
 ---
 
 <h3 align="left">👨💻 About Me</h3>
