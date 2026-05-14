@@ -65,14 +65,12 @@ A grocery-based e-commerce website concept.
 - Focused on **UI structure and component logic**  
 - Learning project for real-world frontend flow  
 👉 [View Project](#)
-
 ---
 
 ### 🌐 Practice Projects & Mini Apps  
 Multiple small projects to strengthen **JavaScript & React fundamentals**.  
 - Focus on logic, state management, and clean code  
 👉 [View Repository](#)
-
 ---
 
 <h3 align="left">💻 Development Stack</h3>
